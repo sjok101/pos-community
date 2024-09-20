@@ -1,0 +1,16 @@
+{
+  "name": "community_pos",
+  "productName": "POS Community",
+  "version": "1.0.0",
+  "description": "Interactive UI for processing payments and logging transactions.",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basil Ok",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^32.1.2"
+  }
+}
